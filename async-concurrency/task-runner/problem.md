@@ -27,12 +27,7 @@ Implement a task runner that can execute multiple asynchronous tasks with a conf
 
 ## 🏢 Companies
 
-- Google (Frontend/Backend roles)
-- Meta (JavaScript heavy positions)
-- Netflix (Full-stack engineers)
-- Flipkart (Senior frontend roles)
-- Swiggy (Full-stack developers)
-- Zomato (Backend/Frontend roles)
+- Rippling
 
 ## ⏱️ Time Limit
 

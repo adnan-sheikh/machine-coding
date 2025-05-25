@@ -18,10 +18,7 @@ Implement a task runner that can execute multiple asynchronous tasks with a conf
 
 ## 🏢 Companies That Ask This
 
-- Google (Frontend/Backend roles)
-- Meta (JavaScript heavy positions)
-- Netflix (Full-stack engineers)
-- Flipkart, Swiggy, Zomato (Indian startups)
+- Rippling
 
 ## ⏱️ Time Limit
 
