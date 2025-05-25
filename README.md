@@ -68,8 +68,7 @@ Feel free to suggest new problems or improvements!
 
 ## 📚 Resources
 
-- [Notion Tracker](YOUR_NOTION_LINK_HERE)
-- [Interview Preparation Guide](./resources/)
+- [Notion Tracker](https://www.notion.so/1febd2da3b6880008da0db07fcb15721?v=1febd2da3b688031badf000cfd2d4621&pvs=4)
 
 ---
 
